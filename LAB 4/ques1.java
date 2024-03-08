@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import sun.jvm.hotspot.oops.java_lang_Class;
 class sheet {
     public int length;
     public int breadth;
